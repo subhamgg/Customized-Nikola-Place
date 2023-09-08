@@ -3,6 +3,13 @@
 author 'Subham.gg'
 softwares used 'Blender and Codewalker'
 
+How to Install
+1. Installation is easy af! Download the Zip
+2. Extract it
+3. Drag and Drop it in your Resource Folder
+4. Make sure to update it in your server.cfg file
+5. Test it in game
+
 If you want to remove the Vendetta Logo. Then  do the following - 
 1. Delete vendettaspray.ymap
 2. Delete venspray.ydr
